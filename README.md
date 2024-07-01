@@ -17,3 +17,4 @@ Choose dependencies:  Spring Data JPA, H2 database, Lombok, Spring Boot Dev Tool
 The next thing we’re gonna do is create a repository to access a User’s data from the database.
 
 The JpaRepository interface defines methods for all the CRUD operations on the entity, and a default implementation of the JpaRepository called SimpleJpaRepository.
+![Screenshot 4_7_2024 9_46_48 PM](https://github.com/devc1234/spring-boot-test/assets/155445639/d7015124-289f-4765-9cf0-7542d2dff9fd)
